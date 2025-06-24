@@ -16,6 +16,8 @@ Ce projet utilise les modèles **ARIMA** et **LSTM** pour prévoir les prix de c
 
 ```bash
 streamlit run app.py
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/Ines8991/Prevision_Arima_Lstm/main/app.py)
+
 ```
 
 ---
