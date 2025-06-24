@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import plotly.graph_objects as go
 import plotly.express as px
 # 📂 Lecture du fichier exporté
-df = pd.read_csv("df.csv")
+df = pd.read_csv("data/df.csv")
 
 st.set_page_config(page_title="Prévision ARIMA + LSTM", layout="wide")
 st.title("📈 Analyse & Prévision des prix")
